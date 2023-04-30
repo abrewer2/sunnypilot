@@ -611,6 +611,7 @@ FW_VERSIONS = {
     (Ecu.fwdCamera, 0x7c4, None): [
       b'\xf1\x00TL  MFC  AT KOR LHD 1.00 1.02 95895-D3800 180719',
       b'\xf1\x00TL  MFC  AT USA LHD 1.00 1.06 95895-D3800 190107',
+      b'\xf1\x00NX4 MFC AT USA LHD 1.00 1.00 99211-CW010 14X',
     ],
     (Ecu.transmission, 0x7e1, None): [
       b'\xf1\x87LBJXAN202299KF22\x87x\x87\x88ww\x87xx\x88\x97\x88\x87\x88\x98x\x88\x99\x98\x89\x87o\xf6\xff\x87w\x7f\xff\x12\x9a\xf1\x81U083\x00\x00\x00\x00\x00\x00\xf1\x00bcsh8p54  U083\x00\x00\x00\x00\x00\x00TTL2V20KL1\x8fRn\x8a',
